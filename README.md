@@ -1,5 +1,4 @@
 # previewer
-## Preview 
 
 A youtube video previwer based on simple html css and javscript
 
